@@ -1,0 +1,19 @@
+About Program: https://statistics.stanford.edu/academics/ms-statistics-data-science
+
+The Data Science track develops strong mathematical, statistical, and computational and programming skills through the general master's core and programming requirements, in addition to providing fundamental data science education through general and focused electives requirement from courses in data sciences and related areas.
+
+As defined in the general Graduate Student Requirements, students have to maintain a grade point average (GPA) of 3.0 or better and classes must be taken at the 200 level or higher. Students satisfying the course requirements of the Data Science track do not have to satisfy the other course requirements for the M.S. in Statistics
+
+The total number of units in the degree is 45, 36 of which must be taken for a letter grade.
+
+Submission of approved Master's Program Proposal, signed by the master's adviser, to the student services officer by the end of the first quarter of the master's degree program. A revised program proposal is required to be filed whenever there are changes to a student's previously approved program proposal.
+
+Upon the successful completion of the Data Science M.S. degree students will be prepared to continue on to their Ph.D. in Statistics, ICME, MS&E, or Computer Science or as a data science professional in industry. Completing the M.S. degree gives no guarantee or preference for admission to the Ph.D. program.
+
+
+Number of Units : 45 , Minimum Required: 36
+Time Period: 5 quarters usually but can be completed in 4
+
+Go to the program link for details about the courses.
+
+
