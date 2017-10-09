@@ -1,0 +1,26 @@
+Application Deadline: January 31, 2017.
+
+
+Please read our Frequently Asked Questions (FAQ) page before starting your application process.
+
+Stage 1: Applicants must first apply directly to the University of Toronto through the School of Graduate Studies (SGS). While applicants may apply to both the MSc program and MScAC program, you must complete separate applications.
+Stage 2: Within 1 to 2 business days of paying the SGS application fee, you will receive an email with login details for the graduate application system for the Department of Computer Science. This email message will be sent to the email address that you provided to the School of Graduate Studies.
+On the Department of Computer Science application, you must include a statement of purpose and three letters of support from faculty members and/or employer.
+Stage 3: You may also be required to complete a Skype interview with a member of the MScAC program team.
+
+
+All applicants must have:
+
+Completed an appropriate undergraduate degree in Computer Science or a related discipline.
+A standing equivalent of at least B+ (77-79%) in their final year (i.e., two terms) of study (the equivalent of 5 full credits, or 10 half credits).
+Achieved English-language proficiency according to the requirements mentioned below.
+Applicants also wishing to be considered for the Data Science concentration must have:
+
+Completed an undergraduate degree in a related area, such as Computer Science, Mathematics, or any other discipline that includes significant exposure to statistics, computer science and mathematics, including coursework in advanced calculus, linear algebra, probability and statistics, programming languages, and computational methods.
+Work experience (including co-op placements or internships) is preferred, but not required.
+
+The minimum TOEFL requirements for Physical Sciences (including Computer Science) are:
+	Overall Score 93 writing/speaking 22
+
+Admissions FAQ: http://web.cs.toronto.edu/Graduate/prospective_gradwhy/mscac/MScAC_FAQ_s.htm
+Admissions Handbook: http://www.cs.toronto.edu/dcs/graddocs/mscachandbook2017-18.pdf
